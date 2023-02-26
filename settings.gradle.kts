@@ -1,0 +1,1 @@
+rootProject.name = "com.example.ktoractividad3_6_psp"
